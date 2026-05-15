@@ -125,20 +125,25 @@ This would enhance policy and business decision- making in the clean transportat
 <h2>Graphical interface overview:</h2>
 
 <p align="center">
-EV Population Dataset <br/>
- <img src="https://github.com/Dan-Dee-analyst/Data-Exploratory/blob/main/Screenshot%202026-05-14%20at%2023.33.52.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+ <img src="https://github.com/Dan-Dee-analyst/Final-Project/blob/main/Screenshot%202026-05-15%20at%2011.16.02.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
 
 <p align="center">
-EV Population by state, type,  model year, maker <br/>
- <img src="https://github.com/Dan-Dee-analyst/Data-Exploratory/blob/main/Screenshot%202026-05-14%20at%2023.32.29.png?raw=true"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+ <img src="https://github.com/Dan-Dee-analyst/Final-Project/blob/main/Screenshot%202026-05-15%20at%2011.19.23.png?raw=true"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <p align="center">
-EV Population by Electric Range, Base MSRP, CAFV Eligibility <br/>
- <img src="https://github.com/Dan-Dee-analyst/Data-Exploratory/blob/main/Screenshot%202026-05-14%20at%2023.35.54.png?raw=true"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+ <img src="https://github.com/Dan-Dee-analyst/Final-Project/blob/main/Screenshot%202026-05-15%20at%2011.19.44.png?raw=true"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+<br/>
+ <img src="https://github.com/Dan-Dee-analyst/Final-Project/blob/main/Screenshot%202026-05-15%20at%2011.22.02.png?raw=true"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
