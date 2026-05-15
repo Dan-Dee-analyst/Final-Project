@@ -1,6 +1,6 @@
 <h1>Electric Vehicle in the United States</h1>
 
- ### [kaggle Ev Dataset](https://www.kaggle.com/datasets/fatmanur12/electric-vehicle-population/data)
+ ### [Tableau Ev Dataset](https://public.tableau.com/app/profile/gaurav.ganesha.kamath/viz/ElectricVehiclePopulationDataAnalysisinUSA/Dashboard)
 
  <h2>Final Report</h2>
  
@@ -19,7 +19,7 @@ Description: EV registration data across the U.S. including make, model year, ve
 - <b>Columns: 10</b> 
 - <b>Size: 1,200 kb (1.2 mb)</b> 
 
-### - <b>Source: [Electric Vehicle Population In U.S. Dataset](https://www.kaggle.com/datasets/fatmanur12/electric-vehicle-population/data)
+### - <b>Source: [Electric Vehicle Population In U.S. Dataset](https://public.tableau.com/app/profile/gaurav.ganesha.kamath/viz/ElectricVehiclePopulationDataAnalysisinUSA/Dashboard)
   
 <b>Business Impact</b>
 
