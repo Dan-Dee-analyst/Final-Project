@@ -119,7 +119,7 @@ Future studies could integrate:
 - <b>Emissions reductions by EV type</b> 
 - <b>State level policy comparisons</b> 
 - <b>Predictive modeling (EV growth forecasting by region)</b> 
-This would enhance policy and business decision- making in the clean transportation section.
+This would enhance policy and business decision-making in the clean transportation section.
 
 
 <h2>Graphical interface overview:</h2>
@@ -146,14 +146,3 @@ This would enhance policy and business decision- making in the clean transportat
  <img src="https://github.com/Dan-Dee-analyst/Final-Project/blob/main/Screenshot%202026-05-15%20at%2011.22.02.png?raw=true"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
